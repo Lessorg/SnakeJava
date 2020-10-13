@@ -1,0 +1,254 @@
+[
+    {
+        "merged": "C:\\Users\\Xiaomi\\Desktop\\SnakeGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_body.png.flat",
+        "source": "C:\\Users\\Xiaomi\\Desktop\\SnakeGame\\app\\src\\main\\res\\drawable-hdpi\\body.png"
+    },
+    {
+        "merged": "C:\\Users\\Xiaomi\\Desktop\\SnakeGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bodyupdown.png.flat",
+        "source": "C:\\Users\\Xiaomi\\Desktop\\SnakeGame\\app\\src\\main\\res\\drawable-hdpi\\bodyupdown.png"
+    },
+    {
+        "merged": "C:\\Users\\Xiaomi\\Desktop\\SnakeGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_apple.png.flat",
+        "source": "C:\\Users\\Xiaomi\\Desktop\\SnakeGame\\app\\src\\main\\res\\drawable-hdpi\\apple.png"
+    },
+    {
+        "merged": "C:\\Users\\Xiaomi\\Desktop\\SnakeGame\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Xiaomi\\Desktop\\SnakeGame\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Xiaomi\\Desktop\\SnakeGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_tail_sprite_sheet.png.flat",
+        "source": "C:\\Users\\Xiaomi\\Desktop\\SnakeGame\\app\\src\\main\\res\\drawable-xxxhdpi\\tail_sprite_sheet.png"
+    },
+    {
+        "merged": "C:\\Users\\Xiaomi\\Desktop\\SnakeGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Xiaomi\\Desktop\\SnakeGame\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Xiaomi\\Desktop\\SnakeGame\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Xiaomi\\Desktop\\SnakeGame\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Xiaomi\\Desktop\\SnakeGame\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Xiaomi\\Desktop\\SnakeGame\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Xiaomi\\Desktop\\SnakeGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Xiaomi\\Desktop\\SnakeGame\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Xiaomi\\Desktop\\SnakeGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Xiaomi\\Desktop\\SnakeGame\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Xiaomi\\Desktop\\SnakeGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_headright.png.flat",
+        "source": "C:\\Users\\Xiaomi\\Desktop\\SnakeGame\\app\\src\\main\\res\\drawable-hdpi\\headright.png"
+    },
+    {
+        "merged": "C:\\Users\\Xiaomi\\Desktop\\SnakeGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_flower_sprite_sheet.png.flat",
+        "source": "C:\\Users\\Xiaomi\\Desktop\\SnakeGame\\app\\src\\main\\res\\drawable-xxxhdpi\\flower_sprite_sheet.png"
+    },
+    {
+        "merged": "C:\\Users\\Xiaomi\\Desktop\\SnakeGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_head_sprite_sheet.png.flat",
+        "source": "C:\\Users\\Xiaomi\\Desktop\\SnakeGame\\app\\src\\main\\res\\drawable-mdpi\\head_sprite_sheet.png"
+    },
+    {
+        "merged": "C:\\Users\\Xiaomi\\Desktop\\SnakeGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_apple.png.flat",
+        "source": "C:\\Users\\Xiaomi\\Desktop\\SnakeGame\\app\\src\\main\\res\\drawable-xxhdpi\\apple.png"
+    },
+    {
+        "merged": "C:\\Users\\Xiaomi\\Desktop\\SnakeGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_apple.png.flat",
+        "source": "C:\\Users\\Xiaomi\\Desktop\\SnakeGame\\app\\src\\main\\res\\drawable-mdpi\\apple.png"
+    },
+    {
+        "merged": "C:\\Users\\Xiaomi\\Desktop\\SnakeGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_apple.png.flat",
+        "source": "C:\\Users\\Xiaomi\\Desktop\\SnakeGame\\app\\src\\main\\res\\drawable-xxxhdpi\\apple.png"
+    },
+    {
+        "merged": "C:\\Users\\Xiaomi\\Desktop\\SnakeGame\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Xiaomi\\Desktop\\SnakeGame\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Xiaomi\\Desktop\\SnakeGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Xiaomi\\Desktop\\SnakeGame\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Xiaomi\\Desktop\\SnakeGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_tail.png.flat",
+        "source": "C:\\Users\\Xiaomi\\Desktop\\SnakeGame\\app\\src\\main\\res\\drawable-xxhdpi\\tail.png"
+    },
+    {
+        "merged": "C:\\Users\\Xiaomi\\Desktop\\SnakeGame\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Xiaomi\\Desktop\\SnakeGame\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Xiaomi\\Desktop\\SnakeGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Xiaomi\\Desktop\\SnakeGame\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Xiaomi\\Desktop\\SnakeGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_head.png.flat",
+        "source": "C:\\Users\\Xiaomi\\Desktop\\SnakeGame\\app\\src\\main\\res\\drawable-xxhdpi\\head.png"
+    },
+    {
+        "merged": "C:\\Users\\Xiaomi\\Desktop\\SnakeGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_flower_sprite_sheet.png.flat",
+        "source": "C:\\Users\\Xiaomi\\Desktop\\SnakeGame\\app\\src\\main\\res\\drawable-xxhdpi\\flower_sprite_sheet.png"
+    },
+    {
+        "merged": "C:\\Users\\Xiaomi\\Desktop\\SnakeGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Xiaomi\\Desktop\\SnakeGame\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Xiaomi\\Desktop\\SnakeGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_body.png.flat",
+        "source": "C:\\Users\\Xiaomi\\Desktop\\SnakeGame\\app\\src\\main\\res\\drawable-xxhdpi\\body.png"
+    },
+    {
+        "merged": "C:\\Users\\Xiaomi\\Desktop\\SnakeGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_head_sprite_sheet.png.flat",
+        "source": "C:\\Users\\Xiaomi\\Desktop\\SnakeGame\\app\\src\\main\\res\\drawable-xxxhdpi\\head_sprite_sheet.png"
+    },
+    {
+        "merged": "C:\\Users\\Xiaomi\\Desktop\\SnakeGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_headup.png.flat",
+        "source": "C:\\Users\\Xiaomi\\Desktop\\SnakeGame\\app\\src\\main\\res\\drawable-hdpi\\headup.png"
+    },
+    {
+        "merged": "C:\\Users\\Xiaomi\\Desktop\\SnakeGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tailup.png.flat",
+        "source": "C:\\Users\\Xiaomi\\Desktop\\SnakeGame\\app\\src\\main\\res\\drawable-hdpi\\tailup.png"
+    },
+    {
+        "merged": "C:\\Users\\Xiaomi\\Desktop\\SnakeGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_tail.png.flat",
+        "source": "C:\\Users\\Xiaomi\\Desktop\\SnakeGame\\app\\src\\main\\res\\drawable-xhdpi\\tail.png"
+    },
+    {
+        "merged": "C:\\Users\\Xiaomi\\Desktop\\SnakeGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_apple.png.flat",
+        "source": "C:\\Users\\Xiaomi\\Desktop\\SnakeGame\\app\\src\\main\\res\\drawable-xhdpi\\apple.png"
+    },
+    {
+        "merged": "C:\\Users\\Xiaomi\\Desktop\\SnakeGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tail_sprite_sheet.png.flat",
+        "source": "C:\\Users\\Xiaomi\\Desktop\\SnakeGame\\app\\src\\main\\res\\drawable-hdpi\\tail_sprite_sheet.png"
+    },
+    {
+        "merged": "C:\\Users\\Xiaomi\\Desktop\\SnakeGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_head_sprite_sheet.png.flat",
+        "source": "C:\\Users\\Xiaomi\\Desktop\\SnakeGame\\app\\src\\main\\res\\drawable-xxhdpi\\head_sprite_sheet.png"
+    },
+    {
+        "merged": "C:\\Users\\Xiaomi\\Desktop\\SnakeGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_flower_sprite_sheet.png.flat",
+        "source": "C:\\Users\\Xiaomi\\Desktop\\SnakeGame\\app\\src\\main\\res\\drawable-xhdpi\\flower_sprite_sheet.png"
+    },
+    {
+        "merged": "C:\\Users\\Xiaomi\\Desktop\\SnakeGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Xiaomi\\Desktop\\SnakeGame\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Xiaomi\\Desktop\\SnakeGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_tail_sprite_sheet.png.flat",
+        "source": "C:\\Users\\Xiaomi\\Desktop\\SnakeGame\\app\\src\\main\\res\\drawable-mdpi\\tail_sprite_sheet.png"
+    },
+    {
+        "merged": "C:\\Users\\Xiaomi\\Desktop\\SnakeGame\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Xiaomi\\Desktop\\SnakeGame\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Xiaomi\\Desktop\\SnakeGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_flower_sprite_sheet.png.flat",
+        "source": "C:\\Users\\Xiaomi\\Desktop\\SnakeGame\\app\\src\\main\\res\\drawable-hdpi\\flower_sprite_sheet.png"
+    },
+    {
+        "merged": "C:\\Users\\Xiaomi\\Desktop\\SnakeGame\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Xiaomi\\Desktop\\SnakeGame\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Xiaomi\\Desktop\\SnakeGame\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Xiaomi\\Desktop\\SnakeGame\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Xiaomi\\Desktop\\SnakeGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_grass.png.flat",
+        "source": "C:\\Users\\Xiaomi\\Desktop\\SnakeGame\\app\\src\\main\\res\\drawable-hdpi\\grass.png"
+    },
+    {
+        "merged": "C:\\Users\\Xiaomi\\Desktop\\SnakeGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tailrigth.png.flat",
+        "source": "C:\\Users\\Xiaomi\\Desktop\\SnakeGame\\app\\src\\main\\res\\drawable-hdpi\\tailrigth.png"
+    },
+    {
+        "merged": "C:\\Users\\Xiaomi\\Desktop\\SnakeGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_body.png.flat",
+        "source": "C:\\Users\\Xiaomi\\Desktop\\SnakeGame\\app\\src\\main\\res\\drawable-xhdpi\\body.png"
+    },
+    {
+        "merged": "C:\\Users\\Xiaomi\\Desktop\\SnakeGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_tail_sprite_sheet.png.flat",
+        "source": "C:\\Users\\Xiaomi\\Desktop\\SnakeGame\\app\\src\\main\\res\\drawable-xxhdpi\\tail_sprite_sheet.png"
+    },
+    {
+        "merged": "C:\\Users\\Xiaomi\\Desktop\\SnakeGame\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Xiaomi\\Desktop\\SnakeGame\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Xiaomi\\Desktop\\SnakeGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_tail.png.flat",
+        "source": "C:\\Users\\Xiaomi\\Desktop\\SnakeGame\\app\\src\\main\\res\\drawable-xxxhdpi\\tail.png"
+    },
+    {
+        "merged": "C:\\Users\\Xiaomi\\Desktop\\SnakeGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_flower_sprite_sheet.png.flat",
+        "source": "C:\\Users\\Xiaomi\\Desktop\\SnakeGame\\app\\src\\main\\res\\drawable-mdpi\\flower_sprite_sheet.png"
+    },
+    {
+        "merged": "C:\\Users\\Xiaomi\\Desktop\\SnakeGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_head.png.flat",
+        "source": "C:\\Users\\Xiaomi\\Desktop\\SnakeGame\\app\\src\\main\\res\\drawable-xhdpi\\head.png"
+    },
+    {
+        "merged": "C:\\Users\\Xiaomi\\Desktop\\SnakeGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_head_sprite_sheet.png.flat",
+        "source": "C:\\Users\\Xiaomi\\Desktop\\SnakeGame\\app\\src\\main\\res\\drawable-hdpi\\head_sprite_sheet.png"
+    },
+    {
+        "merged": "C:\\Users\\Xiaomi\\Desktop\\SnakeGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_tail_sprite_sheet.png.flat",
+        "source": "C:\\Users\\Xiaomi\\Desktop\\SnakeGame\\app\\src\\main\\res\\drawable-xhdpi\\tail_sprite_sheet.png"
+    },
+    {
+        "merged": "C:\\Users\\Xiaomi\\Desktop\\SnakeGame\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Xiaomi\\Desktop\\SnakeGame\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Xiaomi\\Desktop\\SnakeGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_tail.png.flat",
+        "source": "C:\\Users\\Xiaomi\\Desktop\\SnakeGame\\app\\src\\main\\res\\drawable-mdpi\\tail.png"
+    },
+    {
+        "merged": "C:\\Users\\Xiaomi\\Desktop\\SnakeGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_headleft.png.flat",
+        "source": "C:\\Users\\Xiaomi\\Desktop\\SnakeGame\\app\\src\\main\\res\\drawable-hdpi\\headleft.png"
+    },
+    {
+        "merged": "C:\\Users\\Xiaomi\\Desktop\\SnakeGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_head.png.flat",
+        "source": "C:\\Users\\Xiaomi\\Desktop\\SnakeGame\\app\\src\\main\\res\\drawable-xxxhdpi\\head.png"
+    },
+    {
+        "merged": "C:\\Users\\Xiaomi\\Desktop\\SnakeGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Xiaomi\\Desktop\\SnakeGame\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Xiaomi\\Desktop\\SnakeGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_headdown.png.flat",
+        "source": "C:\\Users\\Xiaomi\\Desktop\\SnakeGame\\app\\src\\main\\res\\drawable-hdpi\\headdown.png"
+    },
+    {
+        "merged": "C:\\Users\\Xiaomi\\Desktop\\SnakeGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tailleft.png.flat",
+        "source": "C:\\Users\\Xiaomi\\Desktop\\SnakeGame\\app\\src\\main\\res\\drawable-hdpi\\tailleft.png"
+    },
+    {
+        "merged": "C:\\Users\\Xiaomi\\Desktop\\SnakeGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_head_sprite_sheet.png.flat",
+        "source": "C:\\Users\\Xiaomi\\Desktop\\SnakeGame\\app\\src\\main\\res\\drawable-xhdpi\\head_sprite_sheet.png"
+    },
+    {
+        "merged": "C:\\Users\\Xiaomi\\Desktop\\SnakeGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_taildown.png.flat",
+        "source": "C:\\Users\\Xiaomi\\Desktop\\SnakeGame\\app\\src\\main\\res\\drawable-hdpi\\taildown.png"
+    },
+    {
+        "merged": "C:\\Users\\Xiaomi\\Desktop\\SnakeGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_body.png.flat",
+        "source": "C:\\Users\\Xiaomi\\Desktop\\SnakeGame\\app\\src\\main\\res\\drawable-mdpi\\body.png"
+    },
+    {
+        "merged": "C:\\Users\\Xiaomi\\Desktop\\SnakeGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_head.png.flat",
+        "source": "C:\\Users\\Xiaomi\\Desktop\\SnakeGame\\app\\src\\main\\res\\drawable-mdpi\\head.png"
+    },
+    {
+        "merged": "C:\\Users\\Xiaomi\\Desktop\\SnakeGame\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Xiaomi\\Desktop\\SnakeGame\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Xiaomi\\Desktop\\SnakeGame\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Xiaomi\\Desktop\\SnakeGame\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Xiaomi\\Desktop\\SnakeGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_body.png.flat",
+        "source": "C:\\Users\\Xiaomi\\Desktop\\SnakeGame\\app\\src\\main\\res\\drawable-xxxhdpi\\body.png"
+    }
+]
